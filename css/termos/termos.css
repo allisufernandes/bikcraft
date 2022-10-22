@@ -1,0 +1,23 @@
+.titulo p {
+  text-transform: uppercase;
+}
+
+.termos {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.termos p {
+  color: var(--cor-10);
+  margin-bottom: 20px;
+  max-width: 75ch;
+}
+
+.termos p + h2 {
+  margin-top: 40px;
+}
+
+.termos h2 {
+  font-weight: 600;
+  margin-bottom: 24px;
+}
