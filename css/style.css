@@ -5,9 +5,12 @@
 @import "./global/header.css";
 @import "./global/footer.css";
 
-/* Utildiades */
+/* Orçamento */
 @import "./utilidades/componentes.css";
 @import "./utilidades/formulario.css";
+
+/* Orçamento */
+@import "./orcamento/orcamento.css";
 
 /* Home */
 @import "./home/introducao.css";
